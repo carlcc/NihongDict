@@ -1,0 +1,28 @@
+﻿<xapCache source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\NihongDict_Release_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/12/12 12:59:46">
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\obj\ARM\Release\NihongDict.dll" archivePath="NihongDict.dll" lastWriteTime="2014/12/12 12:59:23" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014/12/11 23:14:42" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014/12/11 23:14:42" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014/12/11 23:14:42" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014/12/11 23:14:42" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014/12/11 23:14:42" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014/12/11 23:14:42" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/12/12 12:59:26" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Chinese_Japanese.dict" archivePath="dictionarys\Chinese_Japanese.dict" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Chinese_Japanese.idx" archivePath="dictionarys\Chinese_Japanese.idx" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Chinese_Japanese.ifo" archivePath="dictionarys\Chinese_Japanese.ifo" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\dictList.dat" archivePath="dictionarys\dictList.dat" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_Chinese.dict" archivePath="dictionarys\Japanese_Chinese.dict" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_Chinese.idx" archivePath="dictionarys\Japanese_Chinese.idx" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_Chinese.ifo" archivePath="dictionarys\Japanese_Chinese.ifo" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_ChineseEnglish.dict" archivePath="dictionarys\Japanese_ChineseEnglish.dict" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_ChineseEnglish.idx" archivePath="dictionarys\Japanese_ChineseEnglish.idx" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_ChineseEnglish.ifo" archivePath="dictionarys\Japanese_ChineseEnglish.ifo" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_ChineseJapanese.dict" archivePath="dictionarys\Japanese_ChineseJapanese.dict" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_ChineseJapanese.idx" archivePath="dictionarys\Japanese_ChineseJapanese.idx" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_ChineseJapanese.ifo" archivePath="dictionarys\Japanese_ChineseJapanese.ifo" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_Chinese_concise.dict" archivePath="dictionarys\Japanese_Chinese_concise.dict" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_Chinese_concise.idx" archivePath="dictionarys\Japanese_Chinese_concise.idx" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\dictionarys\Japanese_Chinese_concise.ifo" archivePath="dictionarys\Japanese_Chinese_concise.ifo" lastWriteTime="2014/12/11 23:16:47" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014/12/11 23:16:19" />
+  <file source="F:\visual studio 2012\WindowsPhone\NihongDict\NihongDict\Bin\ARM\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/12/12 12:59:26" />
+</xapCache>
